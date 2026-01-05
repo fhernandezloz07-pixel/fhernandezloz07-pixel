@@ -1,16 +1,19 @@
 ## Hi there 👋
+I'm Fatima, an Undergrad Student based in the United States double majoring in Mathematics and Electrical Engineering. 
 
-<!--
-**fhernandezloz07-pixel/fhernandezloz07-pixel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+I'm beginner in STEM and higher Education learning through my College, self-driven projects, GitHub and other platforms. I made this account to serve as a portfolio to document my growth, experiment with new topics, develop my skills, and encourage other students from diverse backgrounds and all stages of learning to create their own paths in STEM. No matter how daunting it may seem at the beginning. 
 
 - 🔭 I’m currently working on ...
+  A simple calculator app using Java
+  
 - 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
+  Java, HTML, and how to navigate this app
+  
 - 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  Beginners advice to comprehensive web design and programming languages 
+  How to present myself in professional Undergrad opportunity settings
+
+- ⚡ Fun facts: ...
+  My favorite hobbies are Drawing, reading, emproidery, and aquatic plant/animal care
+  Im passionate about electronics, math, and computer science
+  I value family, hard work, growth, and all things fun!
